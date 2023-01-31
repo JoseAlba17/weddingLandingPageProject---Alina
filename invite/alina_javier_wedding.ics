@@ -26,9 +26,9 @@ BEGIN:VEVENT
 DTSTAMP:20230126T051230Z
 UID:1672799647479-27627@ical.marudot.com
 DTSTART;TZID=America/Mexico_City:20230415T120000
-DTEND;TZID=America/Mexico_City:20230415T220000
+DTEND;TZID=America/Mexico_City:20230415T223000
 SUMMARY:Boda Alina & Javier
-DESCRIPTION:CEREMONIA RELIGIOSA\nParroquia del Señor del Encino\n12:00 HRS\n\nRECEPCIÓN\nSalón Casa Victoria\nBlvd. San Juan Pablo II Km 7\n16:00 HRS - 22:00 HRS
+DESCRIPTION:CEREMONIA RELIGIOSA\nParroquia del Señor del Encino\n12:00 HRS\n\nRECEPCIÓN\nSalón Casa Victoria\nBlvd. San Juan Pablo II Km 7\n15:30 HRS - 22:30 HRS
 LOCATION:Aguascalientes\, Ags
 END:VEVENT
 END:VCALENDAR
